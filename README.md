@@ -2,7 +2,7 @@
 一G期末专题
 cityweb
 # 简介 
-cityweb 输入两个城市名称，得出两个城市之间的距离，操练Python语言开发练习：使用flask
+cityweb 输入两个机场名称，得出两个机场之间的距离，操练Python语言开发练习：使用flask
 
 ## 档
 ### Python档
