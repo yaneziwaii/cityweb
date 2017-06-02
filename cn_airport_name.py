@@ -181,4 +181,4 @@ ZYTL,large_airport,Zhoushuizi Airport,"38.96569824, 121.5390015",107,AS,CN,CN-21
 ZYTN,medium_airport,Tonghua Sanyuanpu Airport,"42.25388889, 125.7033333",1200,AS,CN,CN-22,Tonghua,ZYTN,TNH,
 ZYTX,large_airport,Taoxian Airport,"41.63980103, 123.4830017",198,AS,CN,CN-21,Shenyang,ZYTX,SHE,
 ZYYJ,medium_airport,Yanji Chaoyangchuan Airport,"42.88280106, 129.451004",624,AS,CN,CN-22,Yanji,ZYYJ,YNJ,
-ZYYY,medium_airport,Shenyang Dongta Airport,"41.78440094, 123.4960022",,AS,CN,CN-21,Shenyang,ZYYY,,
+ZYYY,medium_airport,Shenyang Dongta Airport,"41.78440094, 123.4960022",,AS,CN,CN-21,Shenyang,ZYYY,
